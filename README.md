@@ -26,10 +26,4 @@ Projeto App1-Aprendendo inglês foi desenvolvido 100% com angular 11 que consist
 - @Input e @Output
 - Analytics
 
-<br>
 
-### :computer: Acesso ao site 
-
-Veja o site acessando o [link](https://custom-bike.netlify.app/) para ver o resultado. 
-
-<br>
