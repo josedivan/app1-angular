@@ -1,0 +1,32 @@
+.jumbotron {
+  margin-top: 10px; 
+  padding-top: 20px;
+  padding-bottom: 30px;
+  
+}
+.container {
+  
+  width:700px;
+  background-color: aliceblue;
+  
+}
+
+.form-group{
+  margin-top: 20px; 
+  padding-top: 10px;
+  padding-bottom: 30px;
+  width: 600px;
+    height: 100px;
+    margin-right: 20px;
+  
+}
+.btn{
+
+  margin-right: 48px;
+  margin-bottom: 40px;
+}
+
+.row {
+  padding-top: 20px;
+  margin-left: 15px;
+}
